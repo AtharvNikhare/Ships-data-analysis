@@ -1,0 +1,563 @@
+date_published,death_type,deceased_name,deceased_age,deceased_gender,is_passenger,is_crew,ship_cruise_line,ship_name,ship_callsign
+29-10-2000,overboard,Manuelita Mandy Dejos Pierce,39,female,TRUE,FALSE,Royal Caribbean International,Enchantment Of The Seas,C6FZ7
+18-08-2000,suicide,Paula Ann Gunderson,45,female,TRUE,FALSE,Carnival Cruise Line,Carnival Holiday,
+06-06-2000,norovirus,Edith Horn,78,female,TRUE,FALSE,,MV Van Gogh,
+13-05-2000,natural,Barbara Clifton,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Spirit,9HA3097
+24-04-2000,natural,George Paoa,65,male,TRUE,FALSE,,,
+15-04-2001,suicide,Anthony W Reed,30,male,TRUE,FALSE,,,
+08-02-2001,overboard,Mia Yokoyama McDonald,57,female,TRUE,FALSE,,MS Patriot,
+14-01-2001,suicide,Michael Hepner,19,male,TRUE,FALSE,Carnival Cruise Line,Carnival Sensation,C6FM8
+15-11-2002,natural,Betty Allen,,female,TRUE,FALSE,,,
+23-09-2002,drug-overdose,Dianne Brimble,42,female,TRUE,FALSE,P&O Cruises,,
+24-01-2002,illness,Lorenzo Lombardo,21,male,TRUE,FALSE,,,
+16-05-2003,,Randal Paul Gary ,50,male,TRUE,FALSE,,,
+30-01-2003,suicide,Roberta Muzquiz Pagan,35,female,TRUE,FALSE,Carnival Cruise Line,Carnival Elation,3FOC5
+04-12-2004,,Annette Mizener,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Pride,H3VU
+29-11-2004,natural,Ernest Jameson,,male,TRUE,FALSE,,,
+15-11-2004,natural,Eileen Carlson,,female,FALSE,FALSE,,,
+09-11-2004,suicide,Rama Forman,48,female,TRUE,FALSE,,,
+28-08-2004,,Merrian Lynn Carver,40,female,TRUE,FALSE,Celebrity Cruises,Celebrity Mercury,3FFC7
+23-07-2004,suicide,Christopher Paul Caldwell,37,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fascination,C6FM9
+16-06-2004,,Michael McConn,46,male,TRUE,FALSE,,,
+22-04-2004,natural,Margarethe ‰Û÷Grete‰Ûª Bloss,85,female,TRUE,FALSE,,,
+22-03-2004,overboard,David T Pincus,39,male,TRUE,FALSE,,,
+21-12-2005,natural,Genevieve Fuerst,,male,TRUE,FALSE,,,
+21-12-2005,natural,Genevieve Fuerst,,female,TRUE,FALSE,,,
+19-12-2005,natural,Harvey Sheldon Miller,,male,TRUE,FALSE,Celebrity Cruises,Celebrity Summit,9HJC9
+12-12-2005,,Jill Begora,59,female,TRUE,FALSE,Royal Caribbean International,Jewel Of The Seas,C6FW9
+15-11-2005,natural,Rachel Prange,,female,TRUE,FALSE,,,
+15-10-2005,drug-overdose,Ashley Barnett,25,female,TRUE,FALSE,Carnival Cruise Line,Carnival Paradise,3FOB5
+12-09-2005,accident,Dr. Michael Bedford,70,male,TRUE,FALSE,Classic International Cruises,MV Athena,
+02-09-2005,accident,3 Crew Dead,,male,FALSE,TRUE,Royal Caribbean International,Monarch Of The Seas,
+05-07-2005,overboard,George Allen Smith IV,,male,TRUE,FALSE,Royal Caribbean International,Brilliance Of the Seas,C6SJ5
+23-06-2005,suicide,Vonnie Ales,40,female,TRUE,FALSE,Carnival Cruise Line,Carnival Elation,3FOC5
+12-05-2005,suicide,Hue Pham & Hue Tran,71,male,TRUE,FALSE,Carnival Cruise Line,Carnival Sunshine,
+04-04-2005,natural,Edward Johnson,,male,TRUE,FALSE,,,
+20-02-2005,natural,Gerald Warren,,male,TRUE,FALSE,,,
+20-02-2005,natural,Beverly Heil,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Spirit,9HA3097
+01-02-2005,norovirus,Jonathan Kallas,21,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+27-01-2005,accident,Norcliff Perez,,male,FALSE,TRUE,Celebrity Cruises,Celebrity Millennium,9HJF9
+08-01-2005,overboard,Andrew Gready,24,male,TRUE,FALSE,P&O Cruises,,
+01-01-2005,natural,Abdul J. Kirom,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Glory,3FPS9
+19-12-2006,natural,Dorothy Shafer,,female,TRUE,FALSE,Celebrity Cruises,Celebrity Summit,9HJC9
+09-12-2006,natural,Gerald Johnson,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+08-12-2006,overboard,Laura Gainey,25,female,TRUE,FALSE,,,
+07-12-2006,natural,Chris P. Turner Jr,,male,FALSE,FALSE,Norwegian Cruise Line,Norwegian Wind,C6LG6
+28-11-2006,natural,Robert Louis Belzer,,male,FALSE,FALSE,,,
+25-11-2006,overboard,Unknown Male,19,male,TRUE,FALSE,,,
+25-11-2006,natural,Roderick Anthony Watson,45,male,TRUE,FALSE,Carnival Cruise Line,Carnival Triumph,C6FN5
+21-11-2006,drowning,Neuna Shah,,,TRUE,FALSE,,MV Super Star Libra,
+01-11-2006,overboard,James Ewan,73,male,TRUE,FALSE,,,
+28-10-2006,suicide,James Sylvestre,45,male,TRUE,FALSE,,MS Mount Washington,
+12-10-2006,natural,Guillerma Rivera,,male,TRUE,FALSE,Celebrity Cruises,Celebrity Summit,9HJC9
+11-10-2006,suicide,Belinda Clark,35,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Star,C6FR3
+07-10-2006,natural,Alexander Dikshteyn,,male,TRUE,FALSE,Celebrity Cruises,Celebrity Millennium,9HJF9
+30-09-2006,,Lee Ann ‰ÛÒ Suicide Overboard,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Conquest,3FPQ9
+12-09-2006,accident,Mario DeCurtis,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Inspiration,C6FM5
+10-09-2006,murder,Tammy Grogan,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Imagination,C6FN2
+06-09-2006,illness,Helen Kerr,73,female,TRUE,FALSE,Carnival Cruise Line,Carnival Legend,H3VT
+25-07-2006,overboard,Elizabeth Kay Galeana,22,female,TRUE,FALSE,Royal Caribbean International,Voyager Of The Seas,C6SE5
+21-06-2006,natural,Kevin Hacker,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Destiny,C6FN4
+10-06-2006,natural,Daisy Broussard,95,female,TRUE,FALSE,Carnival Cruise Line,Carnival Pride,H3VU
+27-05-2006,,Ramesh Krishnamurthy,35,male,TRUE,FALSE,Carnival Cruise Line,Carnival Legend,H3VT
+26-05-2006,overboard,Micki Kanesaki,52,female,TRUE,FALSE,,,
+18-05-2006,suicide,Frank Kochish,82,male,TRUE,FALSE,Carnival Cruise Line,Carnival Inspiration,C6FM5
+15-05-2006,suicide,Daniel Dipiero,21,male,TRUE,FALSE,Royal Caribbean International,Mariner Of The Seas,C6FV9
+29-04-2006,natural,Phillis Johnson,,female,TRUE,FALSE,Celebrity Cruises,Celebrity Summit,9HJC9
+21-04-2006,natural,Freddye Scott,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Victory,3FFL8
+23-03-2006,fire,Richard Liffridge,72,male,TRUE,FALSE,Princess Cruises,Star Princess,ZCDD6
+22-03-2006,sinking,Shirley Rosett,42,female,TRUE,FALSE,,,
+18-03-2006,natural,Andy Knebel,70,male,TRUE,FALSE,Royal Caribbean International,Vision of the Seas,C6SE8
+01-03-2006,natural,Dorothy Jensen,,female,TRUE,FALSE,Princess Cruises,Dawn Princess,ZCBU2
+22-02-2006,natural,Anthony Burger,44,male,FALSE,FALSE,,,
+11-02-2006,natural,Richard Atkins,69,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Dream,C6LG5
+07-02-2006,suicide,Nicoleta Neculai,27,female,FALSE,TRUE,Norwegian Cruise Lines,Norwegian Jewel,C6TX6
+02-02-2006,sinking,900 Dead,,,FALSE,FALSE,,,
+02-02-2006,natural,Edward Lane,,male,TRUE,FALSE,,,
+30-01-2006,natural,Captain Joern Rene Klausen,38,male,FALSE,TRUE,Royal Caribbean International,Monarch Of The Seas,
+14-01-2006,natural,Majorie East,,female,TRUE,FALSE,Princess Cruises,Dawn Princess,ZCBU2
+06-01-2006,natural,Timothy Brunet,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Sensation,C6FM8
+05-01-2006,suicide,Lynsey O‰ÛªBrien,15,female,TRUE,FALSE,Costa Cruises,,
+24-12-2007,accident,Keith Shaw,77,male,TRUE,FALSE,,,
+15-12-2007,natural,Marvin Sweet Louie Smith,68,male,TRUE,FALSE,Princess Cruises,Caribbean Princess,ZCDG8
+04-12-2007,natural,Kelly Rambaugh,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+29-11-2007,natural,Georgia M. Horton,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Legend,H3VT
+28-11-2007,natural,Troy Len Parker,41,male,TRUE,FALSE,Carnival Cruise Line,Carnival Conquest,3FPQ9
+27-11-2007,natural,Margie Shores,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Ecstasy,H3GR
+18-11-2007,suicide,Monique Teresia Van der Steenstraeten,49,female,TRUE,FALSE,,,
+14-11-2007,natural,Dennis Silverthorn,,male,TRUE,FALSE,Norwegian Cruise Lines,Norwegian Spirit,C6TQ6
+13-11-2007,missing,Oliveiro Fernandez,44,male,FALSE,TRUE,Island Cruises,Island Adventure,
+13-11-2007,overboard,Domenico Miuccio,57,male,FALSE,FALSE,Carnival Cruise Line,Carnival Imagination,C6FN2
+12-11-2007,natural,David Hasty,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+07-11-2007,natural,Larry Cheatham,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Conquest,3FPQ9
+01-11-2007,natural,Albert Haywood,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Destiny,C6FN4
+31-10-2007,norovirus,Two Cruise Ship Passengers Dead,83,male,TRUE,FALSE,Celebrity Cruises,Celebrity Summit,9HJC9
+29-10-2007,natural,Yvonne Mouser,,,FALSE,FALSE,Carnival Cruise Line,Carnival Ecstasy,H3GR
+30-09-2007,overboard,Karleen Pang,67,female,TRUE,FALSE,P&O Cruises,,
+19-09-2007,norovirus,Don Bryce ‰ÛÒ Heart Failure,,male,TRUE,FALSE,,MS Rotterdam,PDGS
+04-09-2007,natural,Evelyn Tonelli,,female,TRUE,FALSE,Princess Cruises,Dawn Princess,ZCBU2
+20-08-2007,natural,Sharon Wolf,,female,TRUE,FALSE,Princess Cruises,Sun Princess,ZCBU6
+14-08-2007,accident,Santo L. Piazza,78,male,TRUE,FALSE,Disney Cruises,Disney Magic,C6PT7
+10-08-2007,natural,Marsue Haviland,,female,TRUE,FALSE,,,
+07-08-2007,,Reves Geryes Boustani,31,male,TRUE,FALSE,P&O Cruises,Pacific Sun,9HA2479
+03-07-2007,overboard,Kevin Klingele,56,male,TRUE,FALSE,Carnival Cruise Line,Carnival Pride,H3VU
+01-07-2007,,David Ritcheson,18,male,TRUE,FALSE,Carnival Cruise Line,Carnival Ecstasy,H3GR
+19-06-2007,suicide,Richard S. Mulloy III,22,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Majesty,
+17-06-2007,suicide,Kenneth Brenton(Brent)Smith,24,male,TRUE,FALSE,Royal Caribbean International,Freedom Of The Seas,C6UZ7
+23-05-2007,natural,Joseph Lee Zaborac,,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Star,C6FR3
+16-05-2007,natural,William Crawford,,male,FALSE,FALSE,Norwegian Cruise Line,Norwegian Star,C6FR3
+09-05-2007,natural,Sylvia Clark,,female,TRUE,FALSE,Princess Cruises,Sapphire Princess,ZCDG7
+09-05-2007,natural,Alvin Letken,,male,TRUE,FALSE,Princess Cruises,Sapphire Princess,ZCDG7
+05-04-2007,sinking,Father and Daughter,45,male,FALSE,FALSE,,,
+25-03-2007,suicide,Clarice Partee,20,female,TRUE,FALSE,Princess Cruises,Grand Princess,ZCBU5
+19-02-2007,natural,Sandra Peggy Crislip,59,female,TRUE,FALSE,Carnival Cruise Line,Carnival Destiny,C6FN4
+11-02-2007,accident,Russell Harrison Stephens ‰ÛÒ Death Aboard,,male,TRUE,FALSE,Celebrity Cruises,Celebrity Millennium,9HJF9
+11-02-2007,natural,George Polanski,78,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Dream,C6LG5
+09-02-2007,drowning,Billie Jean Hunt,71,female,TRUE,FALSE,Carnival Cruise Line,Carnival Conquest,3FPQ9
+01-01-2009,suicide,Antonio Matabang,25,male,FALSE,FALSE,Carnival Cruise Line,Carnival Sensation,C6FM8
+19-12-2008,illness,Isabella Negrato,22,female,TRUE,FALSE,,,
+14-12-2008,natural,Lorraine Rendall,65,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+12-12-2008,,Jennifer Ellis Seitz,36,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+05-12-2008,natural,Celeste Fonseca,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+08-11-2008,natural,Ronald Louder Kaan,59,male,TRUE,FALSE,Celebrity Cruises,Celebrity Constellation,9HJB9
+28-10-2008,natural,Leonid Sokolsky,,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Jewel,C6TX6
+10-10-2008,suicide,Przemyslaw Moranski,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Inspiration,C6FM5
+07-10-2008,natural,Linda Flowe,60,female,TRUE,FALSE,Celebrity Cruises,Carnival Victory,3FFL8
+01-09-2008,natural,William Cannon,49,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+31-08-2008,natural,Betty Lou Driver,69,female,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+18-08-2008,natural,Albert Lawrence Willis,82,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Dream,C6LG5
+18-07-2008,natural,Ronald Wallace Richie,,male,TRUE,FALSE,Princess Cruises,Star Princess,ZCDD6
+08-06-2008,natural,Dave M. Barnett,,male,TRUE,FALSE,Royal Caribbean International,Majesty Of The Seas,C6FZ8
+30-05-2008,natural,Mirta Delgado Velazquez,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Destiny,C6FN4
+27-05-2008,natural,Iantha Austin,73,female,TRUE,FALSE,Princess Cruises,Caribbean Princess,ZCDG8
+11-05-2008,suicide,Mindy Jordan,46,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Dawn,C6FT7
+25-04-2008,illness,Jacquelyn Walter,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Triumph,C6FN5
+22-04-2008,overboard,Steven L. Manning,44,male,TRUE,FALSE,Carnival Cruise Line,Carnival Victory,3FFL8
+19-04-2008,natural,Walther Schloenp,72,male,TRUE,FALSE,,MS Europa,
+11-04-2008,accident,Janet Blazer,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Freedom,3EBL5
+10-04-2008,natural,Lizzie Carte Edmiston,63,female,FALSE,TRUE,,,
+06-04-2008,murder,James Michael Burgess,49,male,TRUE,FALSE,,,
+02-04-2008,natural,Beverly A. Johnson Casselman,55,female,TRUE,FALSE,Carnival Cruise Line,Carnival Fascination,C6FM9
+01-04-2008,natural,Essie Hamilton,55,female,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+09-03-2008,overboard,Tina White,39,female,TRUE,FALSE,,,
+21-02-2008,natural,Raymond J. Malace,55,male,TRUE,FALSE,,Carnival Inspiration,C6FM5
+18-01-2008,drug-overdose,John Coleman,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Ecstasy,H3GR
+11-12-2009,natural,John Murrell,79,male,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+11-12-2009,natural,Frank Charles Rodski Sr,64,male,TRUE,FALSE,Royal Caribbean International,Oasis of the Seas,C6XS7
+08-12-2009,natural,Gonzalo Silverio,68,male,TRUE,FALSE,Carnival Cruise Line,Carnival Inspiration,C6FM5
+26-11-2009,overboard,Angelo Faliva,31,male,FALSE,TRUE,Princess Cruises,Coral Princess,ZCDF4
+17-11-2009,natural,Mary Alice Henry,54,female,TRUE,FALSE,Carnival Cruise Line,Carnival Valor,H3VR
+12-11-2009,natural,Toshiharu Fukushima,60,male,TRUE,FALSE,,,
+12-11-2009,natural,Irving Hoyt,90,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+12-11-2009,natural,Stephen Estavanko,66,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Sky,C6PZ8
+01-11-2009,illness,Tore Myhra,,male,FALSE,FALSE,Royal Caribbean International,Liberty of the Seas,C6VQ8
+24-10-2009,natural,Spencer Yu,46,male,TRUE,FALSE,Royal Caribbean International,Mariner Of The Seas,C6FV9
+22-10-2009,natural,Nicholas Federiux,87,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+10-10-2009,illness,Jean YoungåÊLegionella Cruise ShipåÊLiberty of the Seas October 10,70,female,FALSE,FALSE,Royal Caribbean International,Liberty of the Seas,C6VQ8
+01-10-2009,natural,Gerard V. Maccioli,59,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+21-09-2009,overboard,Edelgard Carney,67,female,TRUE,FALSE,Princess Cruises,Sapphire Princess,ZCDG7
+19-09-2009,natural,John Francis Frey,70,male,TRUE,FALSE,Carnival Cruise Line,Carnival Triumph,C6FN5
+02-09-2009,natural,Andres Caraan,,male,FALSE,TRUE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+02-09-2009,,Unknown Passenger ‰ÛÒ Suicide Overboard,30,male,TRUE,FALSE,Carnival Cruise Line,Carnival Sensation,C6FM8
+04-08-2009,natural,Gandhi Madhusudan,73,male,TRUE,FALSE,Celebrity Cruises,Celebrity Mercury,3FFC7
+03-08-2009,suicide,Amber Malkuch,45,female,TRUE,FALSE,,,
+01-08-2009,suicide,Sean Christopher Rae,28,male,TRUE,FALSE,,,
+31-07-2009,murder,14Shirley McGill,55,female,TRUE,FALSE,Carnival Cruise Line,Carnival Elation,3FOC5
+27-06-2009,natural,Darrin Joseph San Fillippo,44,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+15-06-2009,suicide,Michelle Vilborg,50,female,TRUE,FALSE,Carnival Cruise Line,Carnival Holiday,
+14-06-2009,suicide,Gregory Gonzales Navarro,27,male,FALSE,TRUE,Carnival Cruise Line,Carnival Victory,3FFL8
+04-06-2009,natural,William Gray,65,male,TRUE,FALSE,Carnival Cruise Line,Carnival Spirit,9HA3097
+04-06-2009,murder,O‰Ûªneil Persaud,31,male,TRUE,FALSE,Royal Caribbean International,Adventure Of The Seas,C6SA3
+24-05-2009,suicide,Bruce O‰ÛªKrepki,18,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+24-05-2009,natural,Howard Crager,92,male,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+11-04-2009,overboard,Noojady Nithynanda Shetty,49,male,TRUE,FALSE,,,
+25-02-2009,natural,Rickie Locklear,56,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fascination,C6FM9
+21-02-2009,natural,Joan Krohn,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Destiny,C6FN4
+21-02-2009,natural,Nicholas Stephen Rahal,87,male,TRUE,FALSE,Royal Caribbean International,Explorer Of The Seas,C6SE4
+19-02-2009,natural,George Dean Helms,69,male,TRUE,FALSE,Princess Cruises,Golden Princess,ZCDA9
+07-02-2009,natural,Leonard Ernhardt,75,male,TRUE,FALSE,Carnival Cruise Line,Carnival Splendor,3EUS
+05-02-2009,natural,Kathryn Valois,67,female,TRUE,FALSE,Carnival Cruise Line,Carnival Inspiration,C6FM5
+18-01-2009,illness,Ron McClelland,51,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fascination,C6FM9
+13-01-2009,suicide,Husband and Wife,90,male,TRUE,FALSE,Carnival Cruise Line,Carnival Paradise,3FOB5
+23-12-2010,natural,James Franklin Rader,67,male,TRUE,FALSE,Princess Cruises,Island Princess,ZCDG4
+22-12-2010,suicide,Miguel (Tito) Broliani,19,male,TRUE,FALSE,,,
+21-12-2010,natural,Bernard Alexander King Cruise Ship Passenger Heart Failure,,,TRUE,FALSE,Carnival Cruise Line,Carnival Legend,H3VT
+18-12-2010,accident,Timothy J. Scheibel,59,male,FALSE,FALSE,,,
+12-12-2010,accident,Barbara Davey,56,female,TRUE,FALSE,Royal Caribbean International,Brilliance Of the Seas,C6SJ5
+05-12-2010,natural,Lawrence Bass,79,male,TRUE,FALSE,Princess Cruises,Emerald Princess,ZCDP8
+01-12-2010,natural,Obrzut Danuta,63,male,TRUE,FALSE,Royal Caribbean International,Radiance Of The Seas,C6SE7
+25-11-2010,natural,Susan Barbour,69,female,TRUE,FALSE,Celebrity Cruises,Celebrity Equinox,9HXD9
+16-11-2010,natural,Bert Ethyl Robinson,85,male,TRUE,FALSE,,Carnival Fantasy,H3GS
+10-11-2010,norovirus,David Lee Fitzgerald,76,male,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+08-11-2010,natural,Trudy Lynn Rave,59,female,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+30-09-2010,natural,Charles Cravens,59,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Sky,C6PZ8
+19-09-2010,suicide,Xu,51,male,TRUE,FALSE,,,
+08-09-2010,natural,David Todd Everingham,61,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+30-08-2010,natural,Robert Lee West,50,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+29-08-2010,illness,Denise O‰ÛªNeil,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Dream,
+24-08-2010,overboard,Yang Wenjuan,43,female,TRUE,FALSE,,MV Macau Success,
+14-08-2010,accident,Kevin Henry Edouard,21,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Epic,C6XP7
+31-07-2010,natural,Alice Celestine Cole Taylor,85,female,TRUE,FALSE,Celebrity Cruises,Celebrity Solstice,9HRJ9
+24-07-2010,overboard,Maria Mercedes Bonastre,62,female,TRUE,FALSE,,,
+20-07-2010,natural,Babic Zeljko,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Ecstasy,H3GR
+16-07-2010,natural,Charles Burrell,60,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+16-07-2010,,Sumith Gawas,22,male,FALSE,TRUE,,,
+12-07-2010,illness,Winifred Sell,,male,TRUE,FALSE,Princess Cruises,Golden Princess,ZCDA9
+07-07-2010,sinking,2 Persons Dead,20,male,TRUE,FALSE,,,
+26-05-2010,overboard,Dillon Roache,45,male,TRUE,FALSE,Royal Caribbean International,Oasis of the Seas,C6XS7
+24-05-2010,illness,Paul Hunt III,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Destiny,C6FN4
+19-05-2010,natural,Michael D. Krug,53,male,TRUE,FALSE,Carnival Cruise Line,Carnival Imagination,C6FN2
+05-05-2010,missing,Satianand Buddaru,,male,FALSE,TRUE,Royal Caribbean International,Explorer Of The Seas,C6SE4
+24-04-2010,natural,Jonathan Menchaca,31,male,TRUE,FALSE,Carnival Cruise Line,Carnival Elation,3FOC5
+22-04-2010,illness,Sarah Davis,84,female,TRUE,FALSE,Celebrity Cruises,Celebrity Solstice,9HRJ9
+16-04-2010,in-port,Frederick Thomas Norman,37,male,TRUE,FALSE,Princess Cruises,Caribbean Princess,ZCDG8
+10-04-2010,suicide,Unknown Male,26,male,TRUE,FALSE,,,
+28-03-2010,natural,Vernell Moore,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Imagination,C6FN2
+06-03-2010,natural,Paul Sinclair Doiron,60,male,TRUE,FALSE,Royal Caribbean International,Adventure Of The Seas,C6SA3
+05-03-2010,suicide,Sara Carolyn Hendricks-Lorentz,46,female,TRUE,FALSE,Royal Caribbean International,Grandeur Of The Seas,C6SE3
+04-03-2010,natural,Joseph Stanley Zilley,93,male,TRUE,FALSE,Royal Caribbean International,Voyager Of The Seas,C6SE5
+27-02-2010,natural,James Patrick O‰Ûªdwyer,61,male,TRUE,FALSE,Carnival Cruise Line,Carnival Inspiration,C6FM5
+16-02-2010,drug-overdose,Kipi Holcomb,32,female,TRUE,FALSE,Carnival Cruise Line,Carnival Ecstasy,H3GR
+16-02-2010,suicide,Jim Yates,85,male,TRUE,FALSE,,,
+04-02-2010,natural,Frank V. Woods,67,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fascination,C6FM9
+23-01-2010,illness,Wai F. Mui,72,male,TRUE,FALSE,Princess Cruises,Caribbean Princess,ZCDG8
+19-01-2010,natural,Clifford J. Wolfe,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+10-01-2010,murder,Camila Peixoto Bandeira,28,female,FALSE,TRUE,,,
+07-01-2010,natural,Mark Carroll Miles,29,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+01-01-2010,overboard,Neha Chhikara,23,female,FALSE,TRUE,Royal Caribbean International,Monarch Of The Seas,
+30-12-2011,natural,Robert Schell,,,TRUE,FALSE,,,PDGS
+30-12-2011,natural,Linda Price Bluestone,62,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+24-12-2011,overboard,Kristine Anne Cruz,30,female,FALSE,TRUE,Celebrity Cruises,Celebrity Summit,9HJC9
+10-12-2011,natural,Edgar Walkup,,,TRUE,FALSE,,,
+08-12-2011,natural,Simon Alexander Winner,,male,TRUE,FALSE,Royal Caribbean International,Allure of the Seas,C6XS8
+05-12-2011,suicide,Kelly Ryann Dorrell,26,female,TRUE,FALSE,Cunard Cruise Line,,
+30-11-2011,natural,Rubino Alfonso,,male,TRUE,FALSE,Celebrity Cruises,Celebrity Equinox,9HXD9
+13-11-2011,natural,Carol Briggs,,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Sun,C6RN3
+30-10-2011,natural,Soemarni Sadikromo,,male,FALSE,TRUE,Norwegian Cruise Line,Norwegian Sun,C6RN3
+27-10-2011,natural,Helen Virginia Bousquet,67,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Dawn,C6FT7
+27-10-2011,natural,Kyle Johnson,,male,FALSE,FALSE,Norwegian Cruise Line,Norwegian Dawn,C6FT7
+24-10-2011,natural,Gordon Corey,,male,TRUE,FALSE,,,
+10-10-2011,murder,Baby Doe,,,TRUE,FALSE,Carnival Cruise Line,Carnival Dream,
+26-09-2011,suicide,Brendon Armstrong,24,male,TRUE,FALSE,Celebrity Cruises,Celebrity Equinox,9HXD9
+23-09-2011,suicide,Clint Markham,40,male,TRUE,FALSE,Carnival Cruise Line,Carnival Conquest,3FPQ9
+18-09-2011,overboard,Francis Hemsley,89,male,TRUE,FALSE,,,
+19-08-2011,illness,Kelly Hamilton,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+05-08-2011,natural,Svetlana Korol,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Glory,3FPS9
+31-07-2011,natural,Vito Doino,83,male,TRUE,FALSE,Royal Caribbean International,Majesty Of The Seas,C6FZ8
+22-07-2011,overboard,Blake Kepley,20,male,TRUE,FALSE,,,
+18-07-2011,natural,Raymond Alex Jokipii,72,male,TRUE,FALSE,Princess Cruises,Emerald Princess,ZCDP8
+10-07-2011,sinking,MV Bulgaria Sinks July 10 2011,,,FALSE,FALSE,,MV Bulgaria,
+30-06-2011,natural,Lawson Gage Mickey Weldon,74,male,TRUE,FALSE,Carnival Cruise Line,Carnival Paradise,3FOB5
+21-06-2011,suicide,John LaDuke,45,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+20-06-2011,natural,Allen Lee Huggins,72,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Sky,C6PZ8
+12-06-2011,natural,Margie Shields,70,female,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+11-05-2011,natural,Donald Taylor,90,male,TRUE,FALSE,,,
+08-05-2011,natural,Michael Rollo Mccomb,65,male,TRUE,FALSE,Princess Cruises,Golden Princess,ZCDA9
+06-05-2011,natural,Hyman Silver,79,male,TRUE,FALSE,Crystal Cruises,Crystal Symphony,C6MY5
+02-05-2011,alcohol-related,Angel Holcomb,39,female,TRUE,FALSE,Carnival Cruise Line,Carnival Conquest,3FPQ9
+26-04-2011,natural,Mary Jean Tringale,77,female,TRUE,FALSE,,,PDGS
+19-04-2011,natural,Donald H Cooley,66,male,TRUE,FALSE,Princess Cruises,Emerald Princess,ZCDP8
+12-04-2011,natural,Lee Horn,66,male,TRUE,FALSE,,,
+09-04-2011,natural,Jayne Mark,90,female,TRUE,FALSE,Princess Cruises,Emerald Princess,ZCDP8
+06-04-2011,overboard,John Halford,63,male,TRUE,FALSE,,,
+02-04-2011,natural,Catherine M Maldonado,56,female,TRUE,FALSE,Celebrity Cruises,Celebrity Solstice,9HRJ9
+25-03-2011,natural,Frederick C Kentz Jr,91,male,TRUE,FALSE,Cunard Cruise Line,Queen Victoria,ZCEF3
+23-03-2011,natural,Harriet C. Boettcher,88,female,TRUE,FALSE,Silver Seas Cruises,,
+22-03-2011,missing,Rebecca Coriam,24,female,FALSE,TRUE,Disney Cruises,Disney Wonder,C6QM8
+20-03-2011,natural,David Robert Jenkyns,69,male,TRUE,FALSE,Royal Caribbean International,Radiance Of The Seas,C6SE7
+25-02-2011,natural,David Arden Miller,69,male,TRUE,FALSE,Royal Caribbean International,Radiance Of The Seas,C6SE7
+19-02-2011,natural,John J.J Estock Jr.,76,male,TRUE,FALSE,Carnival Cruise Line,Carnival Glory,3FPS9
+18-02-2011,suicide,Sandip Surwade,27,male,FALSE,FALSE,Royal Caribbean International,Grandeur Of The Seas Crew,
+05-02-2011,norovirus,Joseph Thomas Gavigan Jr,80,male,TRUE,FALSE,Celebrity Cruises,,
+04-02-2011,murder,Monika Markiewicz,32,female,TRUE,FALSE,Royal Caribbean International,Allure of the Seas,C6XS8
+02-02-2011,natural,Roderick Enright Brake,76,male,FALSE,FALSE,Norwegian Cruise Line,Norwegian Sun Passenger,
+28-01-2011,natural,Wayne Davies,70,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+28-01-2011,natural,John Joseph Piluzza,81,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+22-01-2011,natural,Berdette Moore,74,male,TRUE,FALSE,Carnival Cruise Line,Carnival Freedom,3EBL5
+20-01-2011,natural,Melvin Zimmerman,81,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+17-01-2011,natural,Dr. Regina Warner,61,female,TRUE,FALSE,Carnival Cruise Line,Carnival Destiny,C6FN4
+15-01-2011,natural,Bernice Gold,79,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Sky,C6PZ8
+11-01-2011,natural,Christine Elaine Mansfield,53,female,TRUE,FALSE,Carnival Cruise Line,Carnival Valor,H3VR
+05-01-2011,suicide,Jose Miguel Pietri Tello,21,male,TRUE,FALSE,Royal Caribbean International,Liberty of the Seas,C6VQ8
+02-01-2011,suicide,Ramakrishnan Balasubramanian,,male,FALSE,TRUE,Costa Cruises,,
+21-02-2017,natural,John Daniel Cormier,59,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Spirit,C6TQ6
+06-12-2012,suicide,Theobald Perelo Cruise Ship Passenger Death,52,male,FALSE,FALSE,MSC Cruises,,
+04-12-2012,natural,Winford Rawls,84,male,TRUE,FALSE,Carnival Cruise Line,Carnival Freedom,3EBL5
+29-11-2012,overboard,Jason Gregory Rappe,42,male,TRUE,FALSE,,,
+17-11-2012,in-port,Susan Borges,41,female,TRUE,FALSE,Royal Caribbean International,Liberty of the Seas,C6VQ8
+17-11-2012,in-port,Jim Milillo,39,male,TRUE,FALSE,Royal Caribbean International,Liberty of the Seas,C6VQ8
+20-09-2012,missing,Sarah Tessier Powell,70,female,FALSE,FALSE,,,
+01-09-2012,natural,Dmetro Rohatensky,,male,TRUE,FALSE,,,
+29-08-2012,natural,Robert Erickson,,male,TRUE,FALSE,Carnival Cruise Line,Carnival Freedom,3EBL5
+28-08-2012,suicide,Ronald Kemp,31,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fascination,C6FM9
+01-08-2012,natural,Roland Schoon,,male,TRUE,FALSE,Princess Cruises,Sea Princess,
+18-07-2012,suicide,Eric C. Miller,,male,TRUE,FALSE,Royal Caribbean International,Voyager Of The Seas,C6SE5
+14-06-2012,natural,Richard Haag,,male,TRUE,FALSE,Princess Cruises,Golden Princess,ZCDA9
+10-05-2012,natural,April Kozak,,female,TRUE,FALSE,Carnival Cruise Line,Carnival Freedom,3EBL5
+19-04-2012,natural,Janet Lynn Butts,44,female,TRUE,FALSE,Carnival Cruise Line,Carnival Pride,H3VU
+16-04-2012,natural,Hideko Heidi Tucker,75,female,TRUE,FALSE,Carnival Cruise Line,Carnival Conquest,3FPQ9
+05-04-2012,natural,Charles Francis Smedley,76,male,TRUE,FALSE,,,
+04-04-2012,natural,Donna Jane Beason,58,female,FALSE,FALSE,Norwegian Cruise Lines,Norwegian Epic,C6XP7
+17-03-2012,illness,Destiny Bria McCloud,18,female,TRUE,FALSE,Royal Caribbean International,Voyager Of The Seas,C6SE5
+15-03-2012,illness,Anna Louise Legner Brunetti Foster,46,female,TRUE,FALSE,Carnival Cruise Line,Carnival Inspiration,C6FM5
+14-03-2012,natural,Donald F Whalen,70,male,FALSE,FALSE,Royal Caribbean International,Navigator Of The Seas Passenger,
+29-02-2012,suicide,Fariba Amani,47,female,TRUE,FALSE,Celebration Cruise Line,,
+14-02-2012,natural,Donald Francis Paeth,85,male,TRUE,FALSE,Royal Caribbean International,Allure of the Seas,C6XS8
+05-02-2012,suicide,Kenneth Gemmell,30,male,TRUE,FALSE,Royal Caribbean International,Allure of the Seas,C6XS8
+05-02-2012,natural,Edward C Breaux,59,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+04-02-2012,natural,Thomas Pigot,63,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+30-01-2012,accident,Barbara Wood,47,female,TRUE,FALSE,Royal Caribbean International,Liberty of the Seas,C6VQ8
+27-01-2012,suicide,Corporal Walter Eldredge Bouknight,26,male,TRUE,FALSE,,Carnival Fantasy,H3GS
+23-01-2012,sinking,Mylne Litzler,23,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Margarethe Neth ‰ÛÒ Costa Concordia Sinking,70,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Tomas Alberto Costilla Mendoza ‰ÛÒ Costa Concordia Sinking,49,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Christina Mathi Ganz ‰ÛÒ Costa Concordia Sinking,,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Luisa Antonio Virzi ‰ÛÒ Costa Concordia Sinking,49,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Giovanni Masia ‰ÛÒ Costa Concordia Sinking,86,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Dayana Arlotti ‰ÛÒ Costa Concordia Sinking,5,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Horst Galle ‰ÛÒ Costa Concordia Sinking,66,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Siglinde Stumpf ‰ÛÒ Costa Concordia Sinking,,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Elisabeth Bauer ‰ÛÒ Costa Concordia Sinking,,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Josef Werp ‰ÛÒ Costa Concordia Sinking,,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Norbert Joseph Ganz ‰ÛÒ Costa Concordia Sinking,,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Sandor Feher ‰ÛÒ Costa Concordia Sinking,38,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,William Arlotti ‰ÛÒ Costa Concordia Sinking,37,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Gabriel Grube ‰ÛÒ Costa Concordia Sinking,42,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Couple ‰ÛÒ Barbara Heil and Her Husband Gerald ‰Û÷Jerry‰Ûª HeilåÊ‰ÛÒ Costa Concordia Sinking,70,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Brunhilde Werp ‰ÛÒ Costa Concordia Sinking,,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Girolamo Giuseppe ‰ÛÒ Costa Concordia Sinking,30,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Gual Guillermo ‰ÛÒ Costa Concordia Sinking,68,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Pierre Gregoire ‰ÛÒ Costa Co13ncordia Sinking,69,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Jeannette Gannard ‰ÛÒ Costa Concordia Sinking,70,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Margrit Schoeter ‰ÛÒ Costa Concordia Sinking,60,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Francis Servel ‰ÛÒ Costa Concordia Sinking,71,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Maria Grazia Trecarichi ‰ÛÒ Costa Concordia Sinking,,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Egon Hoer ‰ÛÒ Costa Concordia Sinking,,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Jean-Pierre Micheaud ‰ÛÒ Costa Concordia Sinking,61,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Erika Fani Soria Molina ‰ÛÒ Costa Concordia Sinking,25,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Maria D‰ÛªIntrona ‰ÛÒ Costa Concordia Sinking,30,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Mickal Blemand ‰ÛÒ Costa Concordia Sinking,25,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Inge Schall ‰ÛÒ Costa Concordia Sinking,,female,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+13-01-2012,sinking,Russel Terence Rebello ‰ÛÒ Costa Concordia Sinking,33,male,FALSE,FALSE,Costa Cruises,Costa Concordia,IBHD
+28-12-2013,suicide,Tien Sy Nguyen,26,male,TRUE,FALSE,Royal Caribbean International,Adventure Of The Seas,C6SA3
+25-12-2013,accident,Garth Odonnell,73,male,TRUE,FALSE,Fred Olsen Cruises,,
+23-12-2013,illness,Wayan Barsiana,21,male,FALSE,TRUE,Carnival Cruise Line,Carnival Splendor,3EUS
+11-12-2013,natural,Benjamin B Berger ‰ÛÒ Natural Causes,,male,TRUE,FALSE,Princess Cruises,Star Princess,ZCDD6
+06-12-2013,natural,William D. Freeman,67,male,FALSE,FALSE,,,
+13-11-2013,overboard,Unknown Woman ‰ÛÒ Overboard Unknown,,,TRUE,FALSE,Princess Cruises,Grand Princess,ZCBU5
+07-11-2013,illness,Susan Yelton Stevens ‰ÛÒ Pre Existing Condition,,female,TRUE,FALSE,Princess Cruises,Grand Princess,ZCBU5
+04-11-2013,natural,Richard ‰Û÷Dick‰Ûª Knott,72,male,FALSE,FALSE,Seawind Cruises,,
+13-10-2013,drowning,Qwentyn Hunter,6,,TRUE,FALSE,Carnival Cruise Line,Carnival Victory,3FFL8
+08-10-2013,illness,Unknown,,,TRUE,FALSE,MSC Cruises,,
+06-10-2013,suicide,Thomas Francis Levinge,73,male,TRUE,FALSE,Princess Cruises,Sun Princess,ZCBU6
+29-09-2013,natural,Marcelle Zulaikha ‰ÛÒ Natural Causes,,female,TRUE,FALSE,Princess Cruises,Sea Princess,
+20-09-2013,alcohol-related,Michael Moses Ward,41,male,TRUE,FALSE,Carnival Cruise Line,Carnival Dream,
+31-08-2013,natural,Sir David Paradine Frost,74,male,FALSE,FALSE,,,
+13-08-2013,natural,Jasumati N Vithalani,66,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Jewel,C6TX6
+22-07-2013,natural,Miguel Angel Benavides Minaya,37,male,FALSE,TRUE,Carnival Cruise Line,Carnival Fascination,C6FM9
+14-07-2013,illness,Maria La Camera,29,female,FALSE,TRUE,MSC Cruises,,
+06-07-2013,natural,Phyllis McCutchen Baker,73,female,TRUE,FALSE,Princess Cruises,Grand Princess,ZCBU5
+02-07-2013,suicide,Chris Carter,39,male,TRUE,FALSE,Carnival Cruise Line,Carnival Magic,
+17-06-2013,overboard,Sea Spirit Passenger Death,,,TRUE,FALSE,,,
+28-05-2013,,Richard Fearnside,30,male,TRUE,FALSE,,,
+28-05-2013,natural,Michael Barone,,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+08-05-2013,suicide,Kristin Schroder,30,male,TRUE,FALSE,Carnival Cruise Line,Carnival Spirit,9HA3097
+24-03-2013,natural,Katherine Kennedy,64,female,TRUE,FALSE,Royal Caribbean International,Enchantment Of The Seas,C6FZ7
+26-02-2013,alcohol-related,Seth Younes,18,male,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+26-02-2013,drowning,Andrew Wooten,50,male,TRUE,FALSE,Carnival Cruise Line,Carnival Elation,3FOC5
+06-02-2013,drowning,Janet Sandaas,67,female,TRUE,FALSE,,,
+03-02-2013,illness,Jaquelyn Ann Kastrinelis,24,female,FALSE,TRUE,,,
+30-12-2014,natural,Barbara Adams Bleth,72,female,TRUE,FALSE,,,
+21-12-2014,overboard,Clifford Menezes,27,male,FALSE,TRUE,,,
+21-12-2014,overboard,Cliford B. Minej,27,male,FALSE,TRUE,Holland America Cruise Line,,
+18-12-2014,illness,Jimmy Murphy,82,male,FALSE,FALSE,,,
+17-12-2014,accident,Betty B Novick,75,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+01-12-2014,natural,John Devlin,84,male,TRUE,FALSE,Princess Cruises,Star Princess,ZCDD6
+11-10-2014,natural,David James Alexander Bennett,59,male,TRUE,FALSE,Carnival Cruise Line,,
+29-09-2014,accident,Kendall Wernet,20,male,TRUE,FALSE,Carnival Cruise Line,Carnival Ecstasy,H3GR
+18-09-2014,natural,John Wilkinson,,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Gem,C6VG8
+12-09-2014,murder,Denisa Markoska,23,female,FALSE,TRUE,MS Serenissima Cruises,MS Serenissima,
+07-09-2014,natural,Allen W Betz,82,female,TRUE,FALSE,Carnival Cruise Line,Carnival Splendor,3EUS
+14-08-2014,natural,Corrine Jane Underwood,87,female,TRUE,FALSE,,,
+04-08-2014,disaster,125 Dead,,,FALSE,FALSE,,MV Pinak,
+04-08-2014,illness,Rich Ceisler,58,male,TRUE,FALSE,Royal Caribbean International,,
+24-07-2014,natural,Cliff Bearden,50,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+24-07-2014,natural,Dan Jeffery,66,male,FALSE,FALSE,,,
+17-07-2014,missing,Ms Hsieh,53,female,TRUE,FALSE,Costa Cruises,,
+18-06-2014,suicide,Jorge Alberto Lopez Amores,26,male,TRUE,FALSE,MSC Cruises,,
+14-06-2014,murder,Lemuel Lizada,,male,FALSE,TRUE,Princess Cruises,Star Princess,ZCDD6
+30-05-2014,natural,David Eugene Hawley,60,male,TRUE,FALSE,,,
+04-05-2014,natural,Judith Lee Gordon,68,male,TRUE,FALSE,,,
+27-04-2014,suicide,James Cornelius Miller,30,male,TRUE,FALSE,Celebration Cruise Line,,
+15-04-2014,disaster,302 Dead,,,FALSE,FALSE,,,
+03-03-2014,drowning,Dante Curtis,4,,TRUE,FALSE,Norwegian Cruise Line,Norwegian Breakaway,C6ZJ3
+20-02-2014,illness,John Robert Perricone,29,male,TRUE,FALSE,Carnival Cruise Line,Carnival Elation,3FOC5
+14-02-2014,accident,James Swinstead,85,male,TRUE,FALSE,,,
+31-01-2014,accident,James C Harte,87,male,TRUE,FALSE,,,
+30-01-2014,overboard,Bob Horn,69,male,TRUE,FALSE,Fred Olsen Cruise Line,,
+29-01-2014,overboard,Inyoman Bagiada,45,male,TRUE,FALSE,Celebrity Cruises,Celebrity Constellation,9HJB9
+11-01-2014,natural,Elmer Choy Kin Chang,81,male,TRUE,FALSE,Princess Cruises,Star Princess,ZCDD6
+30-12-2015,murder,Katy Rourke,,female,FALSE,FALSE,P&O Cruises,,
+30-12-2015,natural,Spencer Jerome Frazier,64,male,FALSE,FALSE,Cunard Cruise Line,,
+30-12-2015,natural,Bjornar K. Hermansen,72,male,FALSE,FALSE,Premier Cruise Lines,,
+27-12-2015,accident,Jose Sandoval Opazo,66,male,FALSE,TRUE,Carnival Cruise Line,Carnival Ecstasy,H3GR
+21-12-2015,drowning,Ricky Tung Nguyen,8,,TRUE,FALSE,Royal Caribbean International,Liberty of the Seas,C6VQ8
+13-12-2015,overboard,Jennifer Ann Warner,69,female,TRUE,FALSE,,,
+03-12-2015,natural,Elmore Francis Snider,84,male,TRUE,FALSE,Carnival Cruise Line,Carnival Triumph,C6FN5
+17-11-2015,drowning,Karl Edwin Simmons,61,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Jade,C6WK7
+13-11-2015,natural,Jackie Lou Johnson,69,female,FALSE,FALSE,,,
+12-11-2015,suicide,Kaylyn Rose Sommer,24,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+11-11-2015,suicide,Rosanna Rossato,75,female,TRUE,FALSE,MSC Cruises,,
+06-11-2015,suicide,Bernardo Garcia Elbaz,31,male,TRUE,FALSE,Royal Caribbean International,Oasis of the Seas,C6XS7
+04-11-2015,drowning,Ian Michael Scott Ellis,49,male,TRUE,FALSE,Carnival Cruise Line,Carnival Fantasy,H3GS
+03-11-2015,drowning,Scarlett LaVite,51,female,TRUE,FALSE,Carnival Cruise Line,Carnival Pride,H3VU
+15-10-2015,in-port,Marsha Boekeloo,56,female,TRUE,FALSE,Carnival Cruise Line,,
+10-10-2015,suicide,Shane Searle,42,male,TRUE,FALSE,P&O Cruises,,
+07-10-2015,suicide,Rajkumar Agarwal,30,male,TRUE,FALSE,,,
+25-09-2015,overboard,Steve Colbourne‰Ûªs Wife Overboard,,,FALSE,FALSE,,,
+24-09-2015,natural,Alice Ann Jacob,72,female,TRUE,FALSE,Princess Cruises,Regal Princess,
+16-09-2015,suicide,Ariel Brianna Marion,21,female,TRUE,FALSE,Royal Caribbean International,Allure of the Seas,C6XS8
+16-09-2015,in-port,Stephen John Sachman,56,male,TRUE,FALSE,Norwegian Cruise Line,Norwegian Breakaway,C6ZJ3
+13-09-2015,murder,Peter John Mizioch,75,male,TRUE,FALSE,Disney Cruises,Disney Fantasy,
+11-09-2015,accident,Christina Ricci,24,female,TRUE,FALSE,Carnival Cruise Line,Carnival Victory,3FFL8
+11-09-2015,suicide,Wendy Portman Lewis,59,female,TRUE,FALSE,Seabourn Cruises,,
+06-09-2015,overboard,Tobias Brekke,59,male,TRUE,FALSE,,,
+04-09-2015,natural,John McNeece,75,male,FALSE,FALSE,,,
+30-08-2015,natural,Ross L Jamerson,80,male,FALSE,FALSE,,,
+20-08-2015,illness,Jennifer Zighelboim,48,female,FALSE,FALSE,Royal Caribbean International,,
+19-08-2015,suicide,Carol Ann Dumas,65,female,TRUE,FALSE,Carnival Cruise Line,Carnival Glory,3FPS9
+15-08-2015,,Favio Onate Ordenes ‰ÛÒåÊMissing Cruise Ship Crewmember Chef ‰ÛÒ Cunard Line Queen Mary 2 ‰ÛÒ August 15,26,male,FALSE,TRUE,Cunard Cruise Line,,
+21-07-2015,,Richard A Cabaniss,67,male,FALSE,FALSE,,,
+19-07-2015,overboard,Flora Stuardo,,female,TRUE,FALSE,,,
+09-07-2015,natural,Darryl Butler,34,male,TRUE,FALSE,Royal Caribbean International,Navigator of the Seas,C6FU4
+03-07-2015,suicide,Jonas Fillipe de Miranda Santiago,27,male,FALSE,FALSE,Norwegian Cruise Line,Norwegian Sun,C6RN3
+25-06-2015,in-port,The Westerdam Eight ‰ÛÒ Excursion Plane Crash,,,FALSE,FALSE,,,
+15-06-2015,natural,Richard Williams,39,male,TRUE,FALSE,Disney Cruises,Disney Fantasy,
+13-06-2015,suicide,Keith White,34,male,TRUE,FALSE,Mariposa Cruises,,
+11-06-2015,natural,Wayne Heller,58,male,FALSE,FALSE,Norwegian Cruise Line,,
+05-06-2015,natural,Constance Peek Kovach,69,female,TRUE,FALSE,Royal Caribbean International,Jewel Of The Seas,C6FW9
+01-06-2015,sinking,442 Dead,,,FALSE,FALSE,,,
+01-06-2015,natural,Ben Blythewood,49,male,TRUE,FALSE,Carnival Cruise Line,Carnival Magic,
+30-05-2015,natural,Elizabeth Fasci,82,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Dawn,C6FT7
+27-05-2015,natural,Cotton Coulson,,male,TRUE,FALSE,,,
+17-05-2015,drowning,Katelyn A. Blair,,,TRUE,FALSE,Norwegian Cruise Line,Norwegian Gem,C6VG8
+13-05-2015,suicide,Mulianto Raik,50,male,TRUE,FALSE,Star Cruises,,
+13-05-2015,natural,James R Bellock,73,male,TRUE,FALSE,,,
+07-05-2015,natural,Kenneth Finnerty,91,male,FALSE,TRUE,,,
+04-05-2015,suicide,Patrick Plummer,,male,TRUE,FALSE,,,
+16-04-2015,in-port,Johnny Kemp,55,male,FALSE,FALSE,Carnival Cruise Line,Carnival Breeze,
+15-04-2015,,Robert Daniel Cole,31,male,TRUE,FALSE,Carnival Cruise Line,Carnival Conquest,3FPQ9
+15-04-2015,natural,Howard Eisenberg,74,male,FALSE,FALSE,,,
+09-04-2015,natural,Thomas William Checkley,90,male,TRUE,FALSE,Cunard Cruise Line,,
+06-04-2015,natural,James Best,88,male,TRUE,FALSE,,,
+02-04-2015,suicide,Darla J Mellinger Banner Murder ‰ÛÒåÊJohn C. Banner Suicide ‰ÛÒ Cruise Ship Murder-Suicide on Ryndam,56,male,FALSE,FALSE,,,
+01-04-2015,overboard,Mary Atherton,,female,TRUE,FALSE,Cunard Cruise Line,,
+31-03-2015,natural,Glenn Allen McGehee,69,male,FALSE,FALSE,,,
+22-03-2015,suicide,Frank Andrew Flippo,43,male,TRUE,FALSE,Royal Caribbean International,Liberty of the Seas,C6VQ8
+18-03-2015,murder,Orazio Conte,,male,FALSE,FALSE,,,
+18-03-2015,murder,Chiemi Miyazaki,49,female,TRUE,FALSE,,,
+18-03-2015,murder,Dolores Sanchez Rami,73,female,FALSE,FALSE,,,
+18-03-2015,murder,Francesco Caldara,64,male,FALSE,FALSE,,,
+18-03-2015,murder,Machiyo Narusawa,66,female,FALSE,FALSE,,,
+18-03-2015,murder,Haruka Miyazaki,22,female,FALSE,FALSE,,,
+18-03-2015,murder,Antoni Cirera Prez,75,male,FALSE,FALSE,,,
+18-03-2015,murder,Javier Camelo,28,male,FALSE,FALSE,,,
+18-03-2015,murder,Poland Unknown ‰ÛÒ two dead. Poland,,,FALSE,FALSE,,,
+18-03-2015,murder,Unknown Female,61,female,FALSE,FALSE,,,
+18-03-2015,murder,Salley Adey,57,female,FALSE,FALSE,,,
+18-03-2015,murder,Aymen Morjen,33,male,FALSE,FALSE,,,
+18-03-2015,murder,Jean-Claude Tissier,72,male,FALSE,FALSE,,,
+17-03-2015,suicide,George Uthuppu,54,male,TRUE,FALSE,Carnival Cruise Line,Carnival Triumph,C6FN5
+12-03-2015,suicide,Larry Brown,55,male,TRUE,FALSE,,,
+08-03-2015,suicide,Cameron Smook,21,male,TRUE,FALSE,Carnival Cruise Line,Carnival Glory,3FPS9
+05-03-2015,natural,Edward J. Kulig,57,male,TRUE,FALSE,Carnival Cruise Line,,
+01-03-2015,natural,Philip E. Munch,56,male,TRUE,FALSE,Disney Cruises,Disney Cruise Ship,
+25-02-2015,natural,Richard J Heinrichs,83,male,TRUE,FALSE,Carnival Cruise Line,Carnival Triumph,C6FN5
+18-02-2015,murder,Miriam Martinez Camelo,,female,FALSE,FALSE,,,
+17-02-2015,in-port,Theresa Lynn Meuers,55,female,TRUE,FALSE,Norwegian Cruise Line,Norwegian Jewel,C6TX6
+06-02-2015,natural,Alfred Lee Evans,74,male,TRUE,FALSE,,,
+06-02-2015,illness,Francis K. Rediger,76,female,TRUE,FALSE,,,
+01-02-2015,suicide,Mr. Carol Tremblay,66,male,TRUE,FALSE,Celebrity Cruises,Celebrity Constellation,9HJB9
+31-01-2015,accident,James C Harte,87,male,TRUE,FALSE,,,
+31-01-2015,natural,Beryl Robinson,84,female,TRUE,FALSE,P&O Cruise Line,,
+21-01-2015,natural,Dave Jordan,83,male,TRUE,FALSE,,,
+20-01-2015,natural,Phillip Aaron Webb,30,male,TRUE,FALSE,Carnival Cruise Line,,
+20-01-2015,natural,Joann Harmon Arnold,74,female,TRUE,FALSE,,,
+19-01-2015,natural,Gloria Sheryl Nausley,64,female,TRUE,FALSE,Carnival Cruise Line,Carnival Miracle,H3VS
+16-01-2015,natural,George Joseph Helmstetter Sr,73,male,TRUE,FALSE,Carnival Cruise Line,Carnival Sunshine,
+08-01-2015,sinking,Edna Oliver,68,female,TRUE,FALSE,Catamaran Cruises,Pura Vida Princess,
+01-04-2005,natural,Clifford Wheeldon,,male,TRUE,FALSE,,,
+22-12-2016,suicide,Nathaniel (Nate) Skokan,22,,FALSE,FALSE,Royal Caribbean International,Independence of the Seas,C6WW4
+11-12-2016,natural,Michael Nicholson,79,male,TRUE,FALSE,,,
+03-12-2016,in-port,Martin Stephen Brutosky,64,male,TRUE,FALSE,Princess Cruises,Royal Princess,
+29-11-2016,natural,Joseph Ambrosi,62,male,TRUE,FALSE,Royal Caribbean International,Anthem of the Seas,C6BI7
+29-11-2016,natural,William Alan Forsythe,55,male,TRUE,FALSE,Royal Caribbean International,Anthem of the Seas,C6BI7
+22-11-2016,accident,Carol Ann DiCicco MacMillan,71,female,TRUE,FALSE,Celebrity Cruises,Celebrity Solstice,9HRJ9
+19-11-2016,fire,Portia Gumede,36,female,TRUE,FALSE,,,
+19-11-2016,fire,Gwen Mnguni,33,female,TRUE,FALSE,,,
+19-11-2016,fire,Roselyn Molepi,36,female,TRUE,FALSE,,,
+30-10-2016,missing,Imelda Bechstein,74,female,TRUE,FALSE,,,
+10-09-2016,illness,Margaret Carlso,79,female,TRUE,FALSE,P&O Cruises,,
+08-09-2016,overboard,Natalia (Naty) Molina Valenzuela,25,female,FALSE,TRUE,Norwegian Cruise Line,Norwegian Pearl,C6VG7
+07-09-2016,suicide,Rina Patel,32,female,TRUE,FALSE,Carnival Cruise Line,Carnival Ecstasy,H3GR
+26-08-2016,natural,Jerry Lee Kearns,84,male,TRUE,FALSE,MSC Cruises,,
+22-08-2016,natural,Father Robert E French,79,male,TRUE,FALSE,,,
+21-08-2016,suicide,Vernon Witsell,,male,TRUE,FALSE,Skyline Cruises,Skyline Princess,
+20-08-2016,accident,Ben Buenaventura,,male,FALSE,TRUE,,Norwegian Breakaway,C6ZJ3
+10-08-2016,illness,Bambi Guidry,46,female,TRUE,FALSE,Carnival Cruise Line,Carnival Triumph,C6FN5
+20-07-2016,accident,Diogenes Carpio,,male,FALSE,TRUE,Norwegian Cruise Line,Norwegian Breakaway,C6ZJ3
+04-07-2016,natural,Captain Kenneth Adams,47,male,FALSE,FALSE,Alaskan Dream Cruises,,
+02-07-2016,drowning,Prince Adepoju,8,male,TRUE,FALSE,Royal Caribbean International,Anthem of the Seas,C6BI7
+24-06-2016,suicide,Spirit of Tasmania 1,45,male,TRUE,FALSE,,,
+31-05-2016,illness,Austin ‰ÛÏStingray‰Ûù Ray,,male,TRUE,FALSE,Disney Cruises,Disney Wonder,C6QM8
+13-05-2016,overboard,Samantha Broberg,33,female,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+11-05-2016,overboard,Coral Princess Passenger Overboard,,,TRUE,FALSE,Princess Cruises,Coral Princess,ZCDF4
+10-04-2016,natural,James Robert Benson,68,male,TRUE,FALSE,,Navigator of the Seas,C6FU4
+05-04-2016,natural,Daniel Thomas Viste,,male,FALSE,FALSE,American Cruise Lines,,
+02-04-2016,in-port,Kenneth Wayne Thornton and Lawana Rodgers-Rose,51,male,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+21-03-2016,drowning,John Douglas Herberger,56,male,TRUE,FALSE,Carnival Cruise Line,Carnival Triumph,C6FN5
+09-03-2016,suicide,Cruise Ship Passenger Death,,male,FALSE,FALSE,Norwegian Cruise Line,Norwegian Getaway,C6ZJ4
+06-03-2016,overboard,David Wayne Mossman,46,male,TRUE,FALSE,Royal Caribbean International,Navigator of the Seas,C6FU4
+23-02-2016,natural,Laverne Kathryn Day,71,male,TRUE,FALSE,,,
+16-02-2016,suicide,Dominic Santiago Gubertino,55,male,FALSE,TRUE,Norwegian Cruise Line,Norwegian Sun,C6RN3
+09-02-2016,natural,Gary Van Zetten,,male,TRUE,FALSE,,,
+05-02-2016,natural,Thomas Bouchier Armstrong Jr,69,male,TRUE,FALSE,Carnival Cruise Line,Carnival Valor,H3VR
+28-01-2016,in-port,Edoardo Antoniazzi,,male,TRUE,FALSE,MSC Cruises,,
+23-01-2016,natural,James Stewart ‰ÛÏJimmy‰Ûù Bain,68,male,FALSE,FALSE,MSC Cruises,,
+14-01-2016,in-port,Crystal Glewwe,32,female,TRUE,FALSE,Royal Caribbean International,Independence of the Seas,C6WW4
+13-01-2016,illness,Martin L Gross,77,male,TRUE,FALSE,Princess Cruises,Star Princess,ZCDD6
+08-01-2016,sinking,Ivor Stanley Hopkins,80,male,TRUE,FALSE,Catamaran Cruises,Pura Vida Princess,
+07-01-2016,drowning,Janice Mittelstadt,67,female,FALSE,FALSE,Princess Cruises,Caribbean Princess,ZCDG8
+20-08-2017,natural,Marjorie Naame Cook,86,female,FALSE,TRUE,Hapag-Lloyd Cruises,MS Hanseatic,
+25-07-2017,murder,Kristy Manzanares,39,female,TRUE,FALSE,Princess Cruises,Emerald Princess,ZCDP8
+20-07-2017,illness,Jeanne Clark,68,female,TRUE,FALSE,,,
+02-07-2017,illness,Attorney Guy Richard Strafer,66,male,TRUE,FALSE,Viking River Cruises',,
+18-05-2017,,Blossom Young Tyau,94,,FALSE,FALSE,Pearl Cruises of Scandinavia,,
+01-05-2017,natural,John Howell Jr from Richmond,57,male,FALSE,FALSE,Seabourn Cruises,,
+29-04-2017,missing,Adriana Morales de Florencio,24,,FALSE,TRUE,Royal Caribbean International,Navigator of the Seas,C6FU4
+27-04-2017,natural,Julie Kay ‰ÛÏMaxwell‰Ûù Golden,43,,FALSE,FALSE,Royal Caribbean International,Adventure Of The Seas,C6SA3
+24-04-2017,overboard,Norman DeCastro,39,,FALSE,TRUE,Royal Caribbean International,Liberty of the Seas,C6VQ8
+19-04-2017,overboard,Daniel Godsey,33,,FALSE,FALSE,Norwegian Cruise Lines,Norwegian Escape,
+12-04-2017,fire,Larry Morris Hammer and Cristy Jeins Hammer,74,,FALSE,FALSE,,,
+07-04-2017,suicide,Reco Scott Senior,32,,TRUE,FALSE,Carnival Cruise Line,Carnival Liberty,HPYE
+04-04-2017,accident,Neila Judy Straub,68,,FALSE,FALSE,,,
+22-03-2017,overboard,Brandon Paul,23,,FALSE,FALSE,Carnival Cruise Line,Carnival Victory,3FFL8
+15-03-2017,natural,Sib Hashian,67,,FALSE,FALSE,Royal Caribbean International,Independence of the Seas,C6WW4
+04-03-2017,accident,Robin Fair,53,,FALSE,FALSE,Bahamas Paradise Cruise Line,,
+23-02-2017,illness,John Mack Musson,72,,TRUE,FALSE,Princess Cruises,Regal Princess,
+17-02-2017,natural,Natko Nincevic,,,FALSE,FALSE,Carnival Cruise Line,,
+15-02-2017,suicide,Costa Magica Crew Member,27,male,FALSE,TRUE,Costa Cruises,,
+14-02-2017,suicide,Kevin Wellons,24,,FALSE,FALSE,Carnival Cruise Line,Carnival Elation,3FOC5
+10-02-2017,murder,Li Yinglei,36,,TRUE,FALSE,,,
+09-02-2017,in-port,Larry Gerald Wilhoit,67,,TRUE,FALSE,Carnival Cruise Line,Carnival Glory,3FPS9
+26-01-2017,in-port,Wolfgang Goldammer,,,FALSE,FALSE,,German Royal Princess,
+17-01-2017,natural,Bonnie Sue Scott,57,female,TRUE,FALSE,,,
+09-01-2017,overboard,David Svyatetskiy,22,,FALSE,FALSE,Norwegian Cruise Line,Norwegian Escape,
+08-01-2017,sinking,Sharon Johnson,70,female,TRUE,FALSE,Catamaran Cruises,Pura Vida Princess,
+06-01-2017,murder,Fort Lauderdale-Hollywood Airport by Esteban Santiago January 6,,,FALSE,FALSE,,,
+06-01-2017,murder,Shirley Timmons,70,,FALSE,FALSE,,,
+06-01-2017,murder,Terry Andres,62,,FALSE,FALSE,,,
+06-01-2017,murder,Terrorist Attack in Ft Lauderdale Airport January 6,69,,FALSE,FALSE,,,
+06-01-2017,murder,Olga Woltering,84,,FALSE,FALSE,,,
+06-01-2017,murder,Michael Oehme,57,male,FALSE,FALSE,,,
+02-01-2017,overboard,,74,male,FALSE,FALSE,,,
